@@ -1,0 +1,85 @@
+1.)Differentiate Flowchart and Algorithm
+The major difference between algorithm and flowchart is that an algorithm is a logical step-by-step approach for solving problems whereas, a flowchart is merely a way of describing an algorithm.
+2.)Discuss the brief history of flowchsrt.
+In 1921, industrial engineers Frank and Lillian Gilbreth introduced the “Flow Process Chart” to the American Society of Mechanical Engineers (ASME). In the early 1930s, industrial engineer Allan H. Morgensen used Gilbreth's tools to present conferences on making work more efficient to business people at his company.
+3.)Flowchart Symbols and meaning.
+Top 18 Flowchart Symbols
+Flowline Flowchart Symbol
+ 
+                                     Flowline
+1. Flowline Symbol: Shows the process’ direction. Each flowline connects two blocks.
+
+                             Terminal Symbol
+2. Terminal Symbol: Indicates the beginning or end of a flowchart.
+
+                                   Process
+3. Process: Represent a step in a process. This is the most common component of a flowchart.
+
+                             Decision Symbol
+4. Decision Symbol: Shows a step that decides the next step in a process. This is commonly a yes/no or true/false question.
+‍
+
+
+                              Input / Output
+5. Input / Output Symbol: Indicates the process of inputting or outputting external data. This is indicated by the shape of a parallelogram.
+
+                           
+                           Annotation / Comment
+6. Annotation / Comment Symbol: Indicates additional information regarding a step in a process.
+
+                          Predefined Process
+7. Predefined Process  Symbol: Shows named process which is defined elsewhere.
+
+                     
+                            On-page Connector
+8. On-page Connector Symbol are pairs of on-page connecter are used to replace long lines on a flowchart page.
+
+                        
+                            Off-page Connector
+9. Off-page Connector Symbol: An off-page connector is used when the target is on another page. Read our flowchart connector guide for more information on how on-page and off-page connectors work.
+‍
+
+            
+                                   Delay
+10. Delay Symbol: Any delay period that is part of a process
+‍
+
+
+                           Alternate Process
+11. Alternate Process Symbol: An alternate to the normal process step. Flow lines to an alternate process block is usually dashed.
+
+                     
+                                     Data
+12. Data Symbol: Data input or output
+
+                          
+                                Document
+13. Document Symbol: A document
+
+                  
+                            Multi-document
+14. Multi-document Symbol: Multiple documents‍
+
+                                Preparation
+15. Preparation Symbol: A preparation step
+
+                            Display
+16. Display Symbol: A machine display
+
+              
+                        Manual Input
+17. Manual Input Symbol: Data or information into a system
+‍
+
+                   Manual Operation
+18. Manual Operation Symbol: A process step that isn’t automated
+4.)Create an Algorithm and Flowchart to find the Area of the Square
+
+
+   Algorithm                                               Flowchart
+Stap 1. Start
+Step 2. Input side
+Step 3. Calculate
+           area=side•side
+Step 4. Print area
+Step 5. Stop
