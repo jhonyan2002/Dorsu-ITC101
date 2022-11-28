@@ -1,0 +1,25 @@
+package doWhile;
+import java.util.*;
+
+public class doWhile {
+
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+        Scanner sc = new Scanner(System.in);
+        int input,total = 0, i = 1;
+        do{
+        System.out.print("Enter number "+i+": ");
+        input = sc.nextInt();
+            if(input <= 0){
+                i--;
+                System.out.format("You enter %d numbers\n"
+                        + "The sum of the numbers is %d\n",i,total);
+                System.exit(0);
+            }
+            total += input;
+            i++;
+        }while(input > 0);
+    }
+    
+}
